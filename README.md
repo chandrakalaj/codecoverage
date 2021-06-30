@@ -15,3 +15,8 @@ subprojects {
 ```
 gradlew clean :mathlub:jacocoTestReport
 ```
+4. Report can be found under below path
+
+```
+mathlub\build\coverage-report
+```
